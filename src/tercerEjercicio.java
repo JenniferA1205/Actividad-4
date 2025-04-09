@@ -8,6 +8,9 @@ public class tercerEjercicio {
         mostrando en consola la base, el IVA calculado (aproximadamente el 19% de la base) y el total,
         aplicando conceptos de cálculo de impuestos y aritmética aplicada.*/
 
+
+        // Miguel Cardenas
+
         Scanner scanner = new Scanner(System.in);
         double iva = 0.19;
 
